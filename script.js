@@ -88,7 +88,7 @@ const translations = {
         namePlaceholder: "Ismingiz",
         phonePlaceholder: "+998 (__) __-__-__",
         submitButton: "Yuborish",
-        note: "* 15 yil tajribali ustozlardan taxsil oling!.",
+        note: "* 15 yillik tajribaga ega ustozlardan taxsil oling!.",
         successAlert: "Xabar muvaffaqiyatli yuborildi! Tez orada aynan siz bilan bog‘lanamiz😊",
         errorAlert: "Xatolik yuz berdi. Iltimos, qayta urinib ko‘ring!",
         emptyFieldsAlert: "Iltimos, barcha maydonlarni to‘ldiring!"
